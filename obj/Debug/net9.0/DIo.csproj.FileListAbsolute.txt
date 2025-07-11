@@ -1,0 +1,14 @@
+C:\Users\Leish\Desktop\DIo\bin\Debug\net9.0\DIo.exe
+C:\Users\Leish\Desktop\DIo\bin\Debug\net9.0\DIo.deps.json
+C:\Users\Leish\Desktop\DIo\bin\Debug\net9.0\DIo.runtimeconfig.json
+C:\Users\Leish\Desktop\DIo\bin\Debug\net9.0\DIo.dll
+C:\Users\Leish\Desktop\DIo\bin\Debug\net9.0\DIo.pdb
+C:\Users\Leish\Desktop\DIo\obj\Debug\net9.0\DIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leish\Desktop\DIo\obj\Debug\net9.0\DIo.AssemblyInfoInputs.cache
+C:\Users\Leish\Desktop\DIo\obj\Debug\net9.0\DIo.AssemblyInfo.cs
+C:\Users\Leish\Desktop\DIo\obj\Debug\net9.0\DIo.csproj.CoreCompileInputs.cache
+C:\Users\Leish\Desktop\DIo\obj\Debug\net9.0\DIo.dll
+C:\Users\Leish\Desktop\DIo\obj\Debug\net9.0\refint\DIo.dll
+C:\Users\Leish\Desktop\DIo\obj\Debug\net9.0\DIo.pdb
+C:\Users\Leish\Desktop\DIo\obj\Debug\net9.0\DIo.genruntimeconfig.cache
+C:\Users\Leish\Desktop\DIo\obj\Debug\net9.0\ref\DIo.dll
